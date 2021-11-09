@@ -3,3 +3,4 @@
 Its a "myskills" app, to create a list of skills and remove itens if necessary.
 
 
+![myskills][myskills.png]
